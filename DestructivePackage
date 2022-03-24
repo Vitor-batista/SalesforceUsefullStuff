@@ -5,3 +5,11 @@
         	<name></name>
     </types>
 </Package> 
+
+ApexClass
+ApexComponent
+ApexPage
+ApexTestSuite
+ApexTrigger
+AuraDefinitionBundle
+LightningComponentBundle
